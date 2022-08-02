@@ -1,12 +1,12 @@
-국내 여행자를 위한 여행정보를 제공하고, 소통할 수 있는 통합형 여행 플랫폼을 개발
+<b>국내 여행자를 위한 여행정보를 제공하고, 소통할 수 있는 통합형 여행 플랫폼을 개발</b>
 
 <b>※ 목적</b>
-Spring MVC 패턴 및 SQL의 활용 능력 향상과 JavaScript(ECMA6), CSS3, HTML5 등의 숙련을 통한 Full-stack 개발자로서의 역량 강화
+- Spring MVC 패턴 및 SQL의 활용 능력 향상과 JavaScript(ECMA6), CSS3, HTML5 등의 숙련을 통한 Full-stack 개발자로서의 역량 강화
 
 <b>※ 목표</b>
-Spring 프레임워크를 기반으로 한 웹 개발 프로젝트 역량을 강화
-부트스트랩을 사용해 깔끔한 웹 디자인 구축
-Git을 활용한 형상관리 및 팀원간의 협업을 통해 개발자로서의 커뮤니케이션 능력 향상
+- Spring 프레임워크를 기반으로 한 웹 개발 프로젝트 역량을 강화
+- 부트스트랩을 사용해 깔끔한 웹 디자인 구축
+- Git을 활용한 형상관리 및 팀원간의 협업을 통해 개발자로서의 커뮤니케이션 능력 향상
 
 <b>※ 주요업무</b>
 1) Tiles 템플릿 설정으로 판매자, 관리자, 일반 사용자 화면 구성
@@ -31,5 +31,4 @@ Git을 활용한 형상관리 및 팀원간의 협업을 통해 개발자로서�
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-JSP/Servlet
 
